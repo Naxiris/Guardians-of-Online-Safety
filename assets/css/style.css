@@ -13,7 +13,6 @@ body {
     font-weight: 700;
     margin-bottom: 1rem;
     font-family: 'Lexend Exa', sans-serif;
-    color: #;
 }
 .container-hero {
     background-color: rgba(0, 0, 0, 0.4);
@@ -41,6 +40,12 @@ p {
 }
 footer {
     background-color: blue;
+}
+
+/* Styling for the Navbar */
+div .active {
+    color: #000000;
+    text-decoration: underline;
 }
 .navbar-toggler {
     border: none;
