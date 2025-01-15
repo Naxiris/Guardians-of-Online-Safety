@@ -1,14 +1,12 @@
 ## Project Safeguarding.
----
+
 [Live site preview.]()
 
 ## Introduction?
----
 
 This project aims to create a website utilizing HTML, CSS and Bootstrap 5 to create a website designed to inform users of safeguarding practices by providing information that is easily accessible. This ensures that the user can recognize and respond to safeguarding concerns.
 
 # UX
----
 
 The user stories used as reference;
 
@@ -19,7 +17,6 @@ The user stories used as reference;
 </ul>
 
 # Strategy
----
 
 By utilizing Chat GPT I have turned these user stories into guided steps that include;
 
@@ -30,7 +27,6 @@ By utilizing Chat GPT I have turned these user stories into guided steps that in
 </ul>
 
 # Design
----
 
 The design must be **simple and easy to read**, so after searching Google fonts, I have decided on using the fonts [Lexend Exa](https://fonts.google.com/specimen/Lexend+Exa) for the title and headings and [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca). This ensures a difference between heading and paragraph that is visible.
 
@@ -39,7 +35,7 @@ A Hero banner is essential to inform the user, at a glance, what the site is abo
 Sections of the site should be dedicated to information in clear and concise mediums, so a card system may be implemented to redirect people to the desired locations or information. Alternatively, Bootstrap has a carousel that may be useful for such things.
 
 # Technologies Used
----
+
 [Bootstrap 5.3.3](https://getbootstrap.com/)
 [Google Fonts](https://fonts.google.com/)
 [Fontawesome](https://fontawesome.com/)
