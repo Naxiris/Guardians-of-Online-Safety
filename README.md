@@ -32,6 +32,11 @@ The design must be **simple and easy to read**, so after searching Google fonts,
 
 A Hero banner is essential to inform the user, at a glance, what the site is about.
 
+Using this information, I have created a wireframe for the main page that will help guide me through this process as a reference.
+![Screenshot of the Desktop Balsamiq Wireframe](/assets/images/New%20Wireframe%201.png)
+![Screenshot of the Tablet Balsamiq Wireframe](/assets/images/New%20Wireframe%202.png)
+![Screenshot of the Mobile Balsamiq Wireframe](/assets/images/New%20Wireframe%203.png)
+
 Sections of the site should be dedicated to information in clear and concise mediums, so a card system may be implemented to redirect people to the desired locations or information. Alternatively, Bootstrap has a carousel that may be useful for such things.
 
 # Technologies Used
