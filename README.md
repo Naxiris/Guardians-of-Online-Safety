@@ -38,6 +38,10 @@ A Hero banner is essential to inform the user, at a glance, what the site is abo
 
 Sections of the site should be dedicated to information in clear and concise mediums, so a card system may be implemented to redirect people to the desired locations or information. Alternatively, Bootstrap has a carousel that may be useful for such things.
 
-# Website Features
+# Technologies Used
 ---
-
+[Bootstrap 5.3.3](https://getbootstrap.com/)
+[Google Fonts](https://fonts.google.com/)
+[Fontawesome](https://fontawesome.com/)
+[Copilot (Chat GPT Version 4o)](https://github.com/features/copilot)
+[DALL-E 3](https://openai.com/index/dall-e-3/)
