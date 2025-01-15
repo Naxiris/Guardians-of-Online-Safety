@@ -8,12 +8,6 @@
 body {
     background-color: #37ebf3;
 }
-footer {
-    background-color: blue;
-}
-.navbar-toggler {
-    border: none;
-}
 .title {
     font-size: 2rem;
     font-weight: 700;
@@ -24,6 +18,12 @@ p {
     font-size: 1.2rem;
     margin-bottom: 1rem;
     font-family: 'Lexend Deca', sans-serif;
+}
+footer {
+    background-color: blue;
+}
+.navbar-toggler {
+    border: none;
 }
 .card {
     border: none;
@@ -37,10 +37,11 @@ p {
     background-color: #a9def9;
 }
 .btn:hover {
-    background-color: #7ccce5;
-    box-shadow: 0 0 5px 0 #37ebf3,
-    inset 0 0 30px 0 #37ebf3;
-    text-shadow: 0 0 10px #37ebf3;
+    color: #000000;
+    background-color: #fdf900;
+    box-shadow: 0 0 5px 0 #fdf900,
+    inset 0 0 30px 0 #fdf900;
+    text-shadow: 0 0 10px #fdf900;
 }
 
 /* Styling for the about container */
