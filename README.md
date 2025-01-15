@@ -39,6 +39,8 @@ Using this information, I have created a wireframe for the main page that will h
 
 Sections of the site should be dedicated to information in clear and concise mediums, so a card system may be implemented to redirect people to the desired locations or information. Alternatively, Bootstrap has a carousel that may be useful for such things.
 
+During the creation of the website, I decided to add revealing content as I scrolled to make it feel more interactive. Utilizing keyframes, I achieved this with CSS.
+
 # Technologies Used
 
 [Bootstrap 5.3.3](https://getbootstrap.com/)
