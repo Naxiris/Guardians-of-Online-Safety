@@ -20,7 +20,7 @@ body {
     border-radius: 15px;
 }
 .hero {
-    background-image: url('../images/hero.webp');
+    background-image: url('/assets/images/hero.webp');
     background-size: cover;
     background-position: center;
     height: 50vh;
