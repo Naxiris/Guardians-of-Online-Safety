@@ -13,6 +13,26 @@ body {
     font-weight: 700;
     margin-bottom: 1rem;
     font-family: 'Lexend Exa', sans-serif;
+    color: #;
+}
+.container-hero {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 2%;
+    border-radius: 15px;
+}
+.hero {
+    background-image: url('/assets/images/hero.webp');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}
+.hero-text {
+    padding: 1rem;
 }
 p {
     font-size: 1.2rem;
@@ -47,7 +67,7 @@ footer {
 /* Styling for the about container */
 
 .about .container {
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
     padding: 2rem 2rem;
     background-color: rgba(255, 255, 255, 0.4);
