@@ -24,6 +24,7 @@ body {
     background-size: cover;
     background-position: center;
     height: 50vh;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -77,10 +78,6 @@ div .active {
     padding: 2rem 2rem;
     background-color: rgba(255, 255, 255, 0.4);
     border-radius: 5px;
-}
-div img .about {
-    width: 200px;
-    height: auto;
 }
 
 /* Keyframes for revealing content. */
