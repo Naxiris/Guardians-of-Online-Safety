@@ -1,6 +1,6 @@
 ## Project Safeguarding.
 
-[Live site preview.]()
+[Live site preview.](https://naxiris.github.io/Guardians-of-Online-Safety/)
 
 ## Introduction?
 
