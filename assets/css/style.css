@@ -30,15 +30,11 @@ body {
 }
 .hero {
     background: url('../images/hero.webp') no-repeat top center/cover;
-    background-size: cover;
-    background-position: center;
     height: 60vh;
     width: 100%;
     display: flex;
-    justify-content: center;
     align-items: center;
     text-align: center;
-    color: #ffffff;
 }
 .hero-text {
     padding: 1rem;
