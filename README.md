@@ -33,9 +33,9 @@ The design must be **simple and easy to read**, so after searching Google fonts,
 A Hero banner is essential to inform the user, at a glance, what the site is about.
 
 Using this information, I have created a wireframe for the main page that will help guide me through this process as a reference.
-<img src="assets/images/wireframe-1.png" alt="Desktop wireframe" width="100px" height="300px">
-<img src="assets/images/wireframe-2.png" alt="Tablet wireframe" width="100px" height="300px">
-<img src="assets/images/wireframe-3.png" alt="Mobile wireframe" width="100px" height="300px">
+<img src="assets/images/wireframe-1.png" alt="Desktop wireframe" width="300px" height="300px">
+<img src="assets/images/wireframe-2.png" alt="Tablet wireframe" width="300px" height="300px">
+<img src="assets/images/wireframe-3.png" alt="Mobile wireframe" width="300px" height="300px">
 
 Sections of the site should be dedicated to information in clear and concise mediums, so a card system may be implemented to redirect people to the desired locations or information. Alternatively, Bootstrap has a carousel that may be useful for such things.
 
@@ -43,8 +43,8 @@ During the creation of the website, I decided to add revealing content as I scro
 
 # Results of Lighthouse scores
 
-<img src="assets/images/desktop-lighthouse.png" alt="Desktop Lighthouse scores" width="100px" height="300px">
-<img src="assets/images/mobile-lighthouse.png" alt="Mobile Lighthouse scores" width="100px" height="300px">
+<img src="assets/images/desktop-lighthouse.png" alt="Desktop Lighthouse scores" width="300px" height="250px">
+<img src="assets/images/mobile-lighthouse.png" alt="Mobile Lighthouse scores" width="300px" height="250px">
 
 # Technologies Used
 
