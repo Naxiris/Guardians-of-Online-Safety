@@ -1,4 +1,6 @@
 ## Project Safeguarding.
+![Static Badge](https://img.shields.io/badge/Naxiris-Project_Lead-blue)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Naxiris/Guardians-of-Online-Safety)
 
 [Live site preview.](https://naxiris.github.io/Guardians-of-Online-Safety/)
 
