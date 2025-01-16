@@ -47,7 +47,6 @@ body {
     font-size: 1.2rem;
     margin-bottom: 1rem;
     font-family: 'Lexend Deca', sans-serif;
-    color: #1f2428;
 }
 .footer-color {
     background-color: #92c5d8;
@@ -61,6 +60,9 @@ div .active {
 .navbar-toggler {
     border: none;
 }
+
+/* Card styling */
+
 .card {
     border: none;
     border-radius: 5px 5px 0px 0px;
@@ -73,6 +75,9 @@ div .active {
     background-position: 50% 50%;
     position: relative;
 }
+
+/* Button styling */
+
 .btn  {
     clip-path: polygon(92% 0, 100% 25%, 100% 100%, 8% 100%, 0% 75%, 0% 0%);
     border-radius: 0;
@@ -87,9 +92,29 @@ div .active {
     inset 0 0 30px 0 #5087a4;
     text-shadow: 0 0 10px #5087a4;
 }
+.container .identifier-container a {
+    text-decoration: none;
+    color: #000000;
+}
+.container .identifier-container a:hover {
+    color: #ffffff;
+    background-color: #5087a4;
+    box-shadow: 0 0 5px 0 #5087a4,
+    inset 0 0 30px 0 #5087a4;
+    text-shadow: 0 0 10px #5087a4;
+}
 
 /* Styling for the about container */
-
+.container .identifier-container {
+    padding: 6%;
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Lexend Deca', sans-serif;
+}
 .about .container {
     max-width: 90%;
     margin: 0 auto;
