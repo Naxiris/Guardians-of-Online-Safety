@@ -14,15 +14,29 @@
 body {
     background-color: #e2d1bb;
 }
+
+/* Navigation styling */
+
 .nav-color {
     background-color: #92c5d8;
 }
+
+/* Generic Styling */
+
 .title {
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 1rem;
     font-family: 'Lexend Exa', sans-serif;
 }
+.about p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+/* Hero styling */
+
 .container-hero {
     background-color: rgba(0, 0, 0, 0.4);
     padding: 2%;
@@ -39,11 +53,9 @@ body {
 .hero-text {
     padding: 1rem;
 }
-.about p {
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
-    font-family: 'Lexend Deca', sans-serif;
-}
+
+/* Footer styling */
+
 .footer-color {
     background-color: #92c5d8;
 }
@@ -88,19 +100,13 @@ div .active {
     inset 0 0 30px 0 #5087a4;
     text-shadow: 0 0 10px #5087a4;
 }
+
+/* Styling for the identifier-container */
+
 .container .identifier-container a {
     text-decoration: none;
     color: #000000;
 }
-.container .identifier-container a:hover {
-    color: #ffffff;
-    background-color: #5087a4;
-    box-shadow: 0 0 5px 0 #5087a4,
-    inset 0 0 30px 0 #5087a4;
-    text-shadow: 0 0 10px #5087a4;
-}
-
-/* Styling for the about container */
 .container .identifier-container {
     padding: 6%;
     margin: 20px;
@@ -111,6 +117,15 @@ div .active {
     flex-direction: column;
     font-family: 'Lexend Deca', sans-serif;
 }
+.container .identifier-container a:hover {
+    color: #ffffff;
+    background-color: #5087a4;
+    box-shadow: 0 0 5px 0 #5087a4,
+    inset 0 0 30px 0 #5087a4;
+    text-shadow: 0 0 10px #5087a4;
+}
+
+/* Styling for the about container */
 
 .about .container {
     max-width: 90%;
@@ -122,11 +137,14 @@ div .active {
 
 .container .contact {
     display: flex;
-    width: 100%;
-    padding-bottom: 20px;
+    width: 100%;;
+    padding: 20px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: #ffffff;
+    background-color: #5087a4;
+    border-radius: 5px 5px 0px 0px;
 }
 .container .contact .mb-3 {
     width: 400px;
