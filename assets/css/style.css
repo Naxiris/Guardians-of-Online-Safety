@@ -69,7 +69,7 @@ div .active {
 .container .card .top-rounded-card {
     border-radius: 5px 5px 0px 0px;
     width: auto;
-    height: 250px;
+    height: auto;
     background-position: 50% 50%;
     position: relative;
 }
