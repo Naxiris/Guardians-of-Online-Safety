@@ -63,8 +63,15 @@ div .active {
 }
 .card {
     border: none;
-    border-radius: 0;
+    border-radius: 5px 5px 0px 0px;
     color: #1f2428;
+}
+.container .card .top-rounded-card {
+    border-radius: 5px 5px 0px 0px;
+    width: auto;
+    height: 250px;
+    background-position: 50% 50%;
+    position: relative;
 }
 .btn  {
     clip-path: polygon(92% 0, 100% 25%, 100% 100%, 8% 100%, 0% 75%, 0% 0%);
