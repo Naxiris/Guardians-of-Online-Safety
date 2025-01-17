@@ -90,6 +90,10 @@ div .active {
     background-position: 50% 50%;
     position: relative;
 }
+.container .card .img-size {
+    width: 100%;
+    height: 60%;
+}
 
 /* Button styling */
 
@@ -178,7 +182,7 @@ div .active {
 }
 
 /* Media Queries */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
     .hero {
         height: 32vh;
     }
@@ -194,5 +198,8 @@ div .active {
     }
     .reach-button {
         margin-left: 25%;
+    }
+    .container .card .img-size {
+        height: auto;
     }
 }
