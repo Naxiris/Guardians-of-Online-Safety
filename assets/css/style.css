@@ -172,3 +172,23 @@ div .active {
     animation-timeline: view();
     animation-range: entry 0% cover 30%;
 }
+
+/* Media Queries */
+@media screen and (max-width: 768px){
+    .hero {
+        height: 32vh;
+    }
+    .title {
+        font-size: 1.5rem;
+    }
+    .form-label {
+        margin-left: 25%;
+    }
+    .form-control {
+        width: 200px;
+        margin-left: 25%;
+    }
+    .reach-button {
+        margin-left: 25%;
+    }
+}
