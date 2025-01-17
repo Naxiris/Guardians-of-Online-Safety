@@ -51,8 +51,7 @@ During the creation of the website, I decided to add revealing content as I scro
 
 # Technologies Used
 
-[Bootstrap 5.3.3](https://getbootstrap.com/)
-[Google Fonts](https://fonts.google.com/)
-[Fontawesome](https://fontawesome.com/)
-[Copilot (Chat GPT Version 4o)](https://github.com/features/copilot)
-[DALL-E 3](https://openai.com/index/dall-e-3/)
+[Bootstrap 5.3.3](https://getbootstrap.com/) - HTML, CSS and JS library<br>
+[Google Fonts](https://fonts.google.com/) - Fonts for page layout and feel<br>
+[Copilot (Chat GPT Version 4o)](https://github.com/features/copilot) - Help with user stories and steps to achieve<br>
+[DALL-E 3](https://openai.com/index/dall-e-3/) - Image Generation
